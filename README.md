@@ -1,1 +1,3 @@
-# catharsis
+# Catharsis
+
+Bash and Python
